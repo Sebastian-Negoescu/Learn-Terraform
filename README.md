@@ -18,7 +18,7 @@
 
 ## Prerequisites
 
-- Une souscription Azure active (dont vous êtes l'administrateur) An active Azure subscription (where you are an Admin)
+- An active Azure subscription (where you are an Admin)
 - Visual Studio Code
   - Terraform extension : https://marketplace.visualstudio.com/items?itemName=mauve.terraform
   - Terraform snipets extension : https://marketplace.visualstudio.com/items?itemName=mindginative.terraform-snippets
